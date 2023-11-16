@@ -58,22 +58,26 @@ Material:
     - _BaseColor_Rotate: 0
     - _BaseColor_TIling: 1
     - _BounceLight_Hue: -5
-    - _BounceLight_Intensity: 0.1
+    - _BounceLight_Intensity: 0.209
     - _BounceLight_Saturation: 3
     - _BounceLight_Threshold: 3
     - _Line_Enable: 0
     - _Line_Hue: 0
     - _Line_Saturation: 1.75
+    - _MainMask_Ambient: 0
     - _MainMask_Contrast: 1
     - _MainMask_Offset: 0
+    - _NormalMap_Enable: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RImLight_Enable: 1
+    - _RImLight_Enable: 0
     - _RimLight_Intensity: 1
-    - _RimLight_Threshold: 7
+    - _RimLight_Threshold: 1.48
     - _WorldPosMapping_Enable: 0
     m_Colors:
     - _BaseColorTexture_ColorTweaker: {r: 1, g: 1, b: 1, a: 0}
-    - _Line_ColorTweaker: {r: 1, g: 1, b: 1, a: 0}
+    - _BaseColor_Tweak: {r: 1, g: 1, b: 1, a: 0}
+    - _Light_Color: {r: 1, g: 0.9481132, b: 0.9481132, a: 0}
+    - _Line_ColorTweaker: {r: 0.7568253, g: 0.33784264, b: 0.9811321, a: 0}
     - _Shadows_Color: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
