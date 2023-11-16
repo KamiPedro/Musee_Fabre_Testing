@@ -7,10 +7,10 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: INT_Plantes
+  m_Name: INT_Chaises
   m_Shader: {fileID: -6465566751694194690, guid: 89df8e38db4b29349a09165fef151847,
     type: 3}
-  m_Parent: {fileID: 2100000, guid: 6310cb46cba35224fbe573b48002b5fd, type: 2}
+  m_Parent: {fileID: 2100000, guid: 03864503278cdf249a95620f18d712a8, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -23,10 +23,20 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _BaseColor:
+        m_Texture: {fileID: 2800000, guid: 5b9ee7bb61cc9ca4d8804a75bab8499c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
-    m_Colors: []
+    m_Floats:
+    - _BaseColor_TIling: 0.14
+    - _RimLight_Intensity: 0
+    - _RimLight_Threshold: 2.4
+    - _WorldPosMapping_Enable: 0
+    m_Colors:
+    - _BaseColorTexture_ColorTweaker: {r: 0.41918835, g: 0.5660378, b: 0.4948565,
+        a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &3491332119484700758
 MonoBehaviour:

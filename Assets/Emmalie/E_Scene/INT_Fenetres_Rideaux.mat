@@ -23,10 +23,19 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _BaseColor:
+        m_Texture: {fileID: 2800000, guid: 5b9ee7bb61cc9ca4d8804a75bab8499c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
-    m_Colors: []
+    m_Floats:
+    - _BaseColor_TIling: 0.73
+    - _RimLight_Threshold: 8.5
+    m_Colors:
+    - _BaseColorTexture_ColorTweaker: {r: 0.91372555, g: 0.6784314, b: 0.6784314,
+        a: 0}
+    - _Shadows_Color: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3491332119484700758
 MonoBehaviour:
