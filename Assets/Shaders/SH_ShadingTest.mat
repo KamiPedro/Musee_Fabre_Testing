@@ -60,12 +60,23 @@ Material:
     m_Ints: []
     m_Floats:
     - _BaseColor_Rotate: 1.5
-    - _BaseColor_TIling: 3.64
+    - _BaseColor_TIling: 4.91
+    - _BouceLight: 0
+    - _BounceLightFresnel_Threshold: 3
+    - _BounceLightMask: 0
+    - _BounceLightMask_Contrast: 1
+    - _BounceLightMask_Offset: 0.56
+    - _BounceLight_Hue: -5
+    - _BounceLight_Intensity: 0.1
+    - _BounceLight_Saturation: 1.75
+    - _BounceLight_Threshold: 6
     - _EdgeClippingTex_Amount: 6
     - _LineThickness: 0.994
     - _Line_Enable: 1
     - _Line_Hue: -4
-    - _Line_Saturation: 3
+    - _Line_Saturation: 1.75
+    - _MainMask_Contrast: 1
+    - _MainMask_Offset: 0
     - _Mask_Contrast: 2.16
     - _Mask_Offset: 0
     - _PaintTex_Offset: 0
@@ -74,11 +85,20 @@ Material:
     - _PaintTex_Tiling_Range: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _WorldPosMapping_Enable: 1
+    - _RImLight_Enable: 1
+    - _RimLight_Intensity: 0.75
+    - _RimLight_Threshold: 7
+    - _Shadows_Intensity: 1
+    - _WorldPosMapping_Enable: 0
     m_Colors:
-    - _BaseColorTexture_ColorTweaker: {r: 1, g: 0.94219685, b: 0.7783019, a: 0}
+    - _BaseColorTexture_ColorTweaker: {r: 1, g: 0.83987087, b: 0.3915094, a: 0}
+    - _BouncLight_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _BounceLight_Color: {r: 2.9144413, g: 2.211106, b: 2.9960785, a: 0}
+    - _BounceLight_ColorTweaker: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _Color_1: {r: 0.929, g: 0.81287503, b: 0.5723304, a: 0}
+    - _Color_Lights: {r: 1, g: 1, b: 1, a: 0}
     - _Color_Shadows: {r: 0.8495906, g: 0.756141, b: 0.9056604, a: 0}
     - _LineColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Shadows_Color: {r: 0.79909575, g: 0.71521276, b: 0.83, a: 0}
   m_BuildTextureStacks: []
