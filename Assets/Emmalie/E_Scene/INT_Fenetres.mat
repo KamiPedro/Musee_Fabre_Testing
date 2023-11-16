@@ -23,9 +23,16 @@ Material:
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - _BaseColor:
+        m_Texture: {fileID: 2800000, guid: 5b9ee7bb61cc9ca4d8804a75bab8499c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
+    m_Floats:
+    - _BaseColor_TIling: 2.17
+    - _RimLight_Intensity: 0
+    - _RimLight_Threshold: 3.5
     m_Colors: []
   m_BuildTextureStacks: []
 --- !u!114 &3491332119484700758
