@@ -59,6 +59,7 @@ Material:
     - _MainMask_Ambient: 0
     - _MainMask_Contrast: 1
     - _MainMask_Offset: 0
+    - _NormalMap_Enable: 1
     - _PaintTex_TIling: 1
     - _PaintTex_Tiling_Offset: 0
     - _PaintTex_Tiling_Range: 1
@@ -71,6 +72,7 @@ Material:
     m_Colors:
     - _BaseColorTexture_ColorTweaker: {r: 0.35686275, g: 0.41176474, b: 0.42352945,
         a: 0}
+    - _BaseColor_Tweak: {r: 0.8490566, g: 0.73776484, b: 0.5246529, a: 0}
     - _Color_Lights: {r: 1, g: 1, b: 1, a: 0}
     - _Color_Shadows: {r: 1, g: 1, b: 1, a: 0}
     - _Light_Color: {r: 1, g: 1, b: 1, a: 0}

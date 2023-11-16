@@ -30,6 +30,7 @@ Material:
     - _RimLight_Threshold: 3.5
     m_Colors:
     - _BaseColorTexture_ColorTweaker: {r: 0.745283, g: 0.6968957, b: 0.5730242, a: 0}
+    - _BaseColor_Tweak: {r: 0.62352943, g: 0.5254902, b: 0.27450982, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &3491332119484700758
 MonoBehaviour:

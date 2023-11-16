@@ -33,7 +33,8 @@ Material:
     - _BaseColor_TIling: 2.17
     - _RimLight_Intensity: 0
     - _RimLight_Threshold: 3.5
-    m_Colors: []
+    m_Colors:
+    - _BaseColor_Tweak: {r: 0.5377358, g: 0.531297, b: 0.28662333, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3491332119484700758
 MonoBehaviour:

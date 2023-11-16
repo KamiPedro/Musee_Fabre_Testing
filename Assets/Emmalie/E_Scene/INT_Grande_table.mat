@@ -59,6 +59,7 @@ Material:
     - _MainMask_Ambient: 0
     - _MainMask_Contrast: 1
     - _MainMask_Offset: 0
+    - _NormalMap_Enable: 1
     - _PaintTex_TIling: 1
     - _PaintTex_Tiling_Offset: 0
     - _PaintTex_Tiling_Range: 1
@@ -71,12 +72,13 @@ Material:
     m_Colors:
     - _BaseColorTexture_ColorTweaker: {r: 0.6320754, g: 0.45616764, b: 0.5829247,
         a: 1}
+    - _BaseColor_Tweak: {r: 0.31763974, g: 0.6689982, b: 0.8113208, a: 1}
     - _Color_Lights: {r: 1, g: 1, b: 1, a: 0}
     - _Color_Shadows: {r: 1, g: 1, b: 1, a: 0}
     - _Light_Color: {r: 1, g: 1, b: 1, a: 0}
     - _LineColor: {r: 1, g: 1, b: 1, a: 0}
     - _Line_ColorTweaker: {r: 1, g: 1, b: 1, a: 0}
-    - _Shadows_Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Shadows_Color: {r: 0.5235849, g: 1, b: 0.6096285, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3491332119484700758
 MonoBehaviour:

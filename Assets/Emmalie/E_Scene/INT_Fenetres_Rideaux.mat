@@ -35,6 +35,7 @@ Material:
     m_Colors:
     - _BaseColorTexture_ColorTweaker: {r: 0.91372555, g: 0.6784314, b: 0.6784314,
         a: 0}
+    - _BaseColor_Tweak: {r: 0.764151, g: 0.47218764, b: 0.47814608, a: 1}
     - _Shadows_Color: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3491332119484700758

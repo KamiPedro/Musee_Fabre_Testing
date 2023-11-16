@@ -37,6 +37,7 @@ Material:
     m_Colors:
     - _BaseColorTexture_ColorTweaker: {r: 0.41918835, g: 0.5660378, b: 0.4948565,
         a: 1}
+    - _BaseColor_Tweak: {r: 0.6465379, g: 0.7890789, b: 0.8207547, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &3491332119484700758
 MonoBehaviour:
