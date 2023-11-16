@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SH_ShadingTest
+  m_Name: SH_ShadingTest 3
   m_Shader: {fileID: -6465566751694194690, guid: 89df8e38db4b29349a09165fef151847,
     type: 3}
   m_Parent: {fileID: 0}
@@ -94,7 +94,7 @@ Material:
     - _WorldPosMapping_Enable: 0
     m_Colors:
     - _BaseColorTexture_ColorTweaker: {r: 0.9311625, g: 1, b: 0.5896226, a: 0}
-    - _BaseColor_Tweak: {r: 0.59904146, g: 0.7075472, b: 0.26366144, a: 0}
+    - _BaseColor_Tweak: {r: 0.9176471, g: 0.73333335, b: 0.3803922, a: 0}
     - _BouncLight_Color: {r: 1, g: 1, b: 1, a: 0}
     - _BounceLight_Color: {r: 2.9144413, g: 2.211106, b: 2.9960785, a: 0}
     - _BounceLight_ColorTweaker: {r: 1, g: 1, b: 1, a: 0}
