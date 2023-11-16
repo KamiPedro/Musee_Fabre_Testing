@@ -80,6 +80,7 @@ Material:
     - _MainMask_Offset: 0
     - _Mask_Contrast: 2.16
     - _Mask_Offset: 0
+    - _NormalMap_Enable: 1
     - _PaintTex_Offset: 0
     - _PaintTex_TIling: 1.67
     - _PaintTex_Tiling_Offset: 1
@@ -104,5 +105,5 @@ Material:
     - _Light_Color: {r: 1, g: 1, b: 1, a: 0}
     - _LineColor: {r: 1, g: 1, b: 1, a: 0}
     - _Line_ColorTweaker: {r: 1, g: 1, b: 1, a: 0}
-    - _Shadows_Color: {r: 0.6792453, g: 0.48782197, b: 0.4517622, a: 0}
+    - _Shadows_Color: {r: 0.681, g: 0.48871765, b: 0.454, a: 0}
   m_BuildTextureStacks: []
